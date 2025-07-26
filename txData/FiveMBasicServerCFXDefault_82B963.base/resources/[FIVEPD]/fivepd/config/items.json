@@ -1,0 +1,62 @@
+[
+    {
+        "name": "caneta",
+        "isIllegal": false,
+        "multiplier": 10,
+        "itemLocation": 2
+    },
+    {
+        "name": "celular",
+        "isIllegal": false,
+        "multiplier": 20,
+        "itemLocation": 1
+    },
+    {
+        "name": "caderno",
+        "isIllegal": false,
+        "multiplier": 5,
+        "itemLocation": 0
+    },
+    {
+        "name": "maconha",
+        "isIllegal": true,
+        "multiplier": 1,
+        "itemLocation": 2
+    },
+    {
+        "name": "relógio",
+        "isIllegal": false,
+        "multiplier": 20,
+        "itemLocation": 1
+    },
+    {
+        "name": "RG",
+        "isIllegal": false,
+        "multiplier": 20,
+        "itemLocation": 1
+    },
+    {
+        "name": "carteira",
+        "isIllegal": false,
+        "multiplier": 10,
+        "itemLocation": 2
+    },
+    {
+        "name": "fones de ouvido",
+        "isIllegal": false,
+        "multiplier": 5,
+        "itemLocation": 2
+    },
+    {
+        "name": "chaves",
+        "isIllegal": false,
+        "multiplier": 5,
+        "itemLocation": 2
+    },
+    {
+        "name": "faca",
+        "isIllegal": true,
+        "multiplier": 2,
+        "itemLocation": 2
+    }
+]

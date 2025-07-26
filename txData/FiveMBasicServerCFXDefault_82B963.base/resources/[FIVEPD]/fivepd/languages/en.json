@@ -1,0 +1,233 @@
+{
+    "name":"Português",
+    "CalloutMenu":{
+        "title":"Menu de Chamados",
+        "description":"Escolha uma opção",
+        "backup_menu":{
+            "title":"Menu de Reforço",
+            "description":"Chamar reforço",
+            "buttons":{
+                "code1":{
+                    "title":"Código 1",
+                    "description":"Chamar reforço código 1"
+                },
+                "code2":{
+                    "title":"Código 2",
+                    "description":"Chamar reforço código 2"
+                },
+                "code3":{
+                    "title":"Código 3",
+                    "description":"Chamar reforço código 3"
+                },
+                "code99":{
+                    "title":"Código 99",
+                    "description":"Chamar reforço código 99"
+                },
+                "cancel_backup":{
+                    "title":"Cancelar reforço",
+                    "description":"Cancelar seu pedido de reforço"
+                }
+            }
+        },
+        "add_nearby":{
+            "title":"Adicionar jogador próximo",
+            "description":"Adicionar o jogador mais próximo ao seu chamado (precisa estar no mesmo departamento)"
+        },
+        "disable_callouts":{
+            "title":"Desativar chamados",
+            "description":"Desativar o recebimento de chamados"
+        },
+        "debug_menu":{
+            "title":"~y~Menu de Depuração",
+            "description":"Menu de depuração",
+            "submenu":{
+                "force_callouts":{
+                    "title":"Forçar chamados",
+                    "description":"Forçar um chamado"
+                },
+                "toggle_callouts":{
+                    "title":"Ativar/Desativar chamados",
+                    "description":"Ativar/Desativar um chamado"
+                }
+            }
+        },
+        "code4":{
+            "title":"[Chamado] Código ~g~4",
+            "description":"Completar o chamado"
+        },
+        "cancel_assistance":{
+            "title":"~r~Cancelar assistência",
+            "description":"Parar de responder ao pedido de reforço"
+        }
+    },
+    "MainMenu": {
+        "title": "Menu principal",
+        "subtitle": "Escolha um submenu"
+    },
+    "DutyMenu": {
+        "title": "Menu de Serviço",
+        "subtitle": "Escolha uma opção",
+        "duty": "Em serviço",
+        "engine": "Manter motor ligado",
+        "cc": {
+            "title": "Alternar controle de cruzeiro",
+            "description": "Ao ativar esta opção, você pode usar o controle de cruzeiro pressionando a tecla definida para ele. O padrão é 'B'."
+        },
+        "vehicleSpawn": "Gerar veículo",
+        "loadout": "Obter equipamento",
+        "refill": "Recarregar saúde e armadura",
+        "tp": "Teletransportar para a estação",
+        "OptionsMenu": {
+            "title": "Menu de Opções",
+            "subtitle": "Escolha uma opção",
+            "lang": "Mudar idioma",
+            "blips": "Alternar ícones",
+            "patrolCarBlip": "Alternar ícone de carro de patrulha",
+            "menupos": {
+                "title": "Alternar posição do menu",
+                "description": "Marcado: direita~n~Não marcado: esquerda~n~~n~Não funciona em proporções de tela 17:9 e 21:9!"
+            },
+            "showNotifications": {
+                "title": "Alternar notificações",
+                "description": "Algumas notificações consomem muitos recursos, então se você tem um PC com especificações mais baixas, pode desativá-las."
+            },
+            "observation": "Alternar observação de pedestres"
+        }
+    },
+    "SceneMenu": {
+        "title": "Menu de Cena",
+        "subtitle": "Escolha um submenu",
+        "ObjectMenu": {
+            "title": "Menu de Objetos",
+            "subtitle": "Escolha uma opção",
+            "spawn": "Gerar objeto",
+            "delete": "Excluir todos os objetos que você colocou",
+            "deletePrevious": "Excluir o objeto anterior que você colocou"
+        },
+        "SpeedZoneMenu": {
+            "title": "Menu de Zona de Velocidade",
+            "subtitle": "Escolha uma opção",
+            "speed": "Selecionar velocidade",
+            "radius": "Alterar raio",
+            "place": "Colocar zona de velocidade",
+            "remove": "Remover zona de velocidade",
+            "go": "Permitir que veículos passem",
+            "removePlayer": "Remover zona de velocidade do jogador"
+        }
+    },
+    "DispatchMenu": {
+        "title": "Menu de Despacho",
+        "subtitle": "Escolha uma opção",
+        "license": "Verificar licença",
+        "plate": "Verificar placa",
+        "transport": {
+            "request": "Solicitar transporte prisional",
+            "cancel": "Cancelar transporte prisional"
+        },
+        "ems": {
+            "request": "Solicitar ambulância",
+            "cancel": "Cancelar ambulância"
+        },
+        "fd": {
+            "request": "Solicitar corpo de bombeiros",
+            "cancel": "Cancelar corpo de bombeiros"
+        },
+        "coroner": {
+            "request": "Solicitar legista",
+            "cancel": "Cancelar legista"
+        },
+        "towTruck": {
+            "request": "Solicitar guincho",
+            "cancel": "Cancelar guincho"
+        },
+        "animalControl": {
+            "request": "Solicitar controle de animais",
+            "cancel": "Cancelar controle de animais"
+        },
+        "mechanic": {
+            "request": "Solicitar mecânico",
+            "cancel": "Cancelar mecânico"
+        },
+        "airAmbulance": {
+            "request": "Solicitar ambulância aérea",
+            "cancel": "Cancelar ambulância aérea"
+        },
+        "taxi": {
+            "request": "Solicitar táxi",
+            "cancel": "Cancelar táxi"
+        }
+    },
+    "PedVehicleMenu": {
+        "title": "Menu de assento do pedestre",
+        "subtitle": "Escolha uma opção",
+        "left": "Traseira esquerda colocar/ordenar saída",
+        "right": "Traseira direita colocar/ordenar saída"
+    },
+    "TrafficStopMenu": {
+        "title": "Menu de Parada de Trânsito",
+        "subtitle": "Escolha uma opção",
+        "go": "Liberar",
+        "breathalyzer": "Teste de bafômetro",
+        "drugswab": "Teste de drogas",
+        "interactWith": "Interagir com",
+        "orderOut": {
+            "title": "Ordenar saída do veículo",
+            "occupants": ["Todos", "Motorista", "Dianteiro direito", "Traseiro esquerdo", "Traseiro direito"]
+        }
+    },
+    "TrafficStopPositionMenu": {
+        "title": "Posição da Parada de Trânsito",
+        "subtitle": "Escolha uma opção",
+        "follow": "Ativar seguir",
+        "mimic": "Ativar imitar",
+        "marker": "Ativar ir para o marcador",
+        "cancel": "Cancelar posicionamento"
+    },
+    "PedCheckMenu": {
+        "title": "Menu de Abordagem de Pedestre",
+        "subtitle": "Escolha uma opção",
+        "license": "Pedir licença",
+        "question": "Fazer perguntas",
+        "licenses": [
+            "Condução",
+            "Caça",
+            "Pesca",
+            "Arma"
+        ],
+        "breathalyzer": "Teste de bafômetro",
+        "drugswab": "Teste de drogas",
+        "move": {
+            "title": "Mover pedestre",
+            "types": ["Me seguir", "Segurar pedestre"]
+        },
+        "search": {
+            "title": "Revistar",
+            "types": ["Pedestre", "Veículo"]
+        },
+        "cancelMove": {
+            "title": "Cancelar movimento",
+            "description": "Cancelar seguir ou segurar."
+        },
+        "cuff": "Algemar pedestre",
+        "uncuff": "Desalgemar pedestre",
+        "dismiss": "Dispensar pedestre"
+    },
+    "AdminMenu": {
+        "title": "Menu de Administrador",
+        "subtitle": "Escolha uma opção",
+        "garageMenu": {
+            "title": "Garagens",
+            "subtitle": "Escolha uma opção",
+            "respawnAll": "Gerar novamente todas as garagens",
+            "respawnOne": "Gerar novamente garagem"
+        },
+        "devMenu": {
+            "title": "Ferramentas de desenvolvimento",
+            "subtitle": "Escolha uma opção",
+            "save": "Salvar posição atual",
+            "heading": "Adicionar direção à posição",
+            "model": "Adicionar modelo de pedestre à posição",
+            "change": "Alterar modelo de pedestre"
+        }
+    }
+}

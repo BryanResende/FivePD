@@ -1,0 +1,67 @@
+{
+	"police": [
+		{
+			"name": "Police",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "Police 2",
+			"vehicle": "police2",
+			"isAvailableForEveryone": true,
+			"useRanks": false,
+			"availableForRanks": ["Officer I", "Officer II"],
+			"availableForDepartments": []
+		},
+		{
+			"name": "Police 3",
+			"vehicle": "police3",
+			"isAvailableForEveryone": true,
+			"useRanks": false,
+			"availableForRanks": ["Detective I", "Detective II"],
+			"availableForDepartments": [18]
+		},
+		{
+			"name": "Police 4",
+			"vehicle": "police4",
+			"isAvailableForEveryone": true,
+			"useRanks": false,
+			"availableForDepartments": [19]
+		},
+		{
+			"name": "Police Bike",
+			"vehicle": "policeb",
+			"isAvailableForEveryone": true,
+			"useRanks": false,
+			"availableForDepartments": [19]
+		},
+		{
+			"name": "FBI 1",
+			"vehicle": "fbi",
+			"isAvailableForEveryone": true,
+			"useRanks": false,
+			"availableForDepartments": [19]
+		},
+		{
+			"name": "FBI 2",
+			"vehicle": "fbi2",
+			"isAvailableForEveryone": true,
+			"useRanks": false,
+			"availableForDepartments": [19]
+		},
+		{
+			"name": "sheriff2",
+			"vehicle": "sheriff2",
+			"isAvailableForEveryone": true
+		}
+	],
+	"ambulance": ["ambulance"],
+	"airAmbulance": ["polmav"],
+	"firedept": ["firetruk"],
+	"coroner": ["speedo", "utillitruck3"],
+	"towtruck": ["flatbed"],
+	"mechanic": ["utillitruck3"],
+	"prisontransport": ["police"],
+	"animalControl": ["bison"],
+	"taxi": ["taxi"]
+}

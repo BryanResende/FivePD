@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "FivePD"
+  },
+  "server": {
+    "dataPath": "C:/Users/Bryan/Downloads/FIVEPD/txData/FiveMBasicServerCFXDefault_82B963.base/"
+  }
+}

@@ -1,0 +1,150 @@
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [10764] FXServer Starting - 24/07/2025 19:55:40        
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[    resources:FIVEPD] Warning: [FIVEPD] is a category, but has a resource manifest (if this is meant to be a resource, don't use [] around the name)
+[  resources:callouts] Warning: callouts does not have a resource manifest (fxmanifest.lua)
+[  resources:computer] Warning: computer does not have a resource manifest (fxmanifest.lua)
+[    resources:config] Warning: config does not have a resource manifest (fxmanifest.lua)
+[ resources:languages] Warning: languages does not have a resource manifest (fxmanifest.lua)
+[resources:loading_sc] Warning: loading_screen does not have a resource manifest (fxmanifest.lua)
+[   resources:plugins] Warning: plugins does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 31 resources.
+[           resources] 7 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[ citizen-server-impl] Couldn't find resource category [FIVEPD].
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://suporteaspire-gpp3v9.users.cfx.re/
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"suporteaspire\",\"message\":\"Server restarting (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [6300] FXServer Starting - 24/07/2025 19:56:24         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[    resources:FIVEPD] Warning: [FIVEPD] is a category, but has a resource manifest (if this is meant to be a resource, don't use [] around the name)
+[  resources:callouts] Warning: callouts does not have a resource manifest (fxmanifest.lua)
+[  resources:computer] Warning: computer does not have a resource manifest (fxmanifest.lua)
+[    resources:config] Warning: config does not have a resource manifest (fxmanifest.lua)
+[ resources:languages] Warning: languages does not have a resource manifest (fxmanifest.lua)
+[resources:loading_sc] Warning: loading_screen does not have a resource manifest (fxmanifest.lua)
+[   resources:plugins] Warning: plugins does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 31 resources.
+[           resources] 7 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[ citizen-server-impl] Couldn't find resource category [FIVEPD].
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://suporteaspire-gpp3v9.users.cfx.re/
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"suporteaspire\",\"message\":\"Server restarting (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [9196] FXServer Starting - 24/07/2025 19:59:05         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 26 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for fivepd
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䔔䙤ￚ⎓䗨㢿㨞䱟缾䔅䜌⤕��䶙ￖ䮤㞾䅔㿒䪸㚺⌾䀹䯭�䔯�䱄䀶䄍䯕�㢃.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䔔䙤ￚ⎓䗨㢿㨞䱟缾䔅䜌⤕��䶙ￖ䮤㞾䅔㿒䪸㚺⌾䀹䯭�䔯�䱄䀶䄍䯕�㢃.
+[       script:fivepd] [ FivePD ] ==== Validating Config Files ====
+[       script:fivepd] [ FivePD ] Validated `callouts.json`.
+[       script:fivepd] [ FivePD ] Validated `charges.json`.
+[       script:fivepd] [ FivePD ] Validated `disabled_callouts.json`.
+[       script:fivepd] [ FivePD ] Validated `items.json`.
+[       script:fivepd] [ FivePD ] Validated `vehicles.json`.
+[       script:fivepd] [ FivePD ] Validated `loadouts.json`.
+[       script:fivepd] [ FivePD ] Validated `coordinates.json`.
+[       script:fivepd] [ FivePD ] Validated `menu.json`.
+[       script:fivepd] [ FivePD ] Validated `questions.json`.
+[       script:fivepd] [ FivePD ] Validated `scene_management.json`.
+[       script:fivepd] [ FivePD ] Validated `garage.json`.
+[       script:fivepd] [ FivePD ] Validated `config.json`.
+[       script:fivepd] [ FivePD ] Selected database type: SQLite
+[       script:fivepd] [ FivePD ] Warning: The FivePD Discord Bot has been sunset and will stop working in the near future. Consider disabling it.
+[       script:fivepd] [ FivePD ] Loaded charges.json
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䔔䙤ￚ⎓䗨㢿㨞䱟缾䔅䜌⤕��䶙ￖ䮤㞾䅔㿒䪸㚺⌾䀹䯭�䔯�䱄䀶䄍䯕�㢃.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䔔䙤ￚ⎓䗨㢿㨞䱟缾䔅䜌⤕��䶙ￖ䮤㞾䅔㿒䪸㚺⌾䀹䯭�䔯�䱄䀶䄍䯕�㢃.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䔔䙤ￚ⎓䗨㢿㨞䱟缾䔅䜌⤕��䶙ￖ䮤㞾䅔㿒䪸㚺⌾䀹䯭�䔯�䱄䀶䄍䯕�㢃+HjGl21xmnGv62Xl120Qtrノ䩃㦌䵵䐕︉䐎㕬⎞䌨�㑺㧔㳸㲡䪤㨇䔸㤐㷥嬨㻫�㜃��㎓㠞䗊㳷䑭䥇䳉〈.
+[       script:fivepd] Instantiated instance of script HjGl21xmnGv62Xl120Qtr䔔䙤ￚ⎓䗨㢿㨞䱟缾䔅䜌⤕��䶙ￖ䮤㞾䅔㿒䪸㚺⌾䀹䯭�䔯�䱄䀶䄍䯕�㢃.
+[    resources:fivepd] Warning: could not find client_script `./plugins/**/*.net.dll` (defined in fxmanifest.lua:40)
+[    resources:fivepd] Warning: could not find file `./NativeUI.dll` (defined in fxmanifest.lua:10)
+[    resources:fivepd] Warning: could not find file `./index.html` (defined in fxmanifest.lua:10)
+[    resources:fivepd] Warning: could not find file `./callouts/**/*.json` (defined in fxmanifest.lua:10)
+[           resources] Started resource fivepd (4 warnings)
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://suporteaspire-gpp3v9.users.cfx.re/

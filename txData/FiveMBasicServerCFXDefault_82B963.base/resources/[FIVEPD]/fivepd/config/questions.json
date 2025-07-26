@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Perguntas normais",
+        "questions": [
+            {
+                "question": "Você andou bebendo ultimamente?",
+                "answers": ["Sim.", "Não.", "Claro que sim!"]
+            },
+            {
+                "question": "Pra onde você tá indo?",
+                "answers": ["Tô indo pra casa.", "É da minha conta..."]
+            }
+        ]
+    },
+    {
+        "title": "Perguntas de blitz (parada de trânsito)",
+        "questions": [
+            {
+                "question": "Olá, tudo bem?",
+                "answers": ["E aí!", "Olá, senhor guarda!", "Bom dia, senhor!"]
+            },
+            {
+                "question": "Olá",
+                "answers": ["E aí!", "Olá, senhora policial!", "Boa tarde, senhora!"]
+            }
+        ]
+    },
+    {
+        "title": "Perguntas de documentação",
+        "questions": [
+            {
+                "question": "Você tá com a sua carteira de motorista?",
+                "answers": ["Sim.", "Não.", "Não, esqueci em casa."]
+            },
+            {
+                "question": "Você tem licença de caça?",
+                "answers": ["Não tenho.", "Sim, senhor, tenho sim."]
+            }
+        ]
+    }
+]

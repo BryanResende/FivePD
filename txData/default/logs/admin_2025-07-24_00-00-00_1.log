@@ -1,0 +1,12 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 17000 Starting - 24/07/2025 19:51:38
+================================================================
+[19:52:42][suporteaspire] created admins file
+[19:53:28][suporteaspire] Config changes: general.serverName
+[19:53:28][suporteaspire] Changing global settings via setup stepper and started Deployer.
+[19:53:54][suporteaspire] Setting recipe.
+[19:54:00][suporteaspire] Running recipe.
+[19:55:40][suporteaspire] Config changes: server.dataPath
+[19:55:40][suporteaspire] Completed and committed server deploy.
+[19:56:18][suporteaspire] [suporteaspire] executed "RESTART SERVER"
+[19:58:59][suporteaspire] [suporteaspire] executed "RESTART SERVER"

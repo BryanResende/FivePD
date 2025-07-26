@@ -1,0 +1,92 @@
+{
+    "violations": {
+        "Public": [
+            "Embriaguez em público",
+            "Atravessar fora da faixa (Jaywalking)",
+            "Invasão de propriedade",
+            "Vadiagem",
+            "Briga",
+            "Perturbação da ordem"
+        ],
+        "Documentation": [
+            "CNH vencida",
+            "Documento do veículo vencido",
+            "Seguro vencido",
+            "CNH inválida",
+            "Documento do veículo inválido",
+            "Seguro inválido"
+        ],
+        "Traffic Violations": [
+            "Excesso de velocidade (+8-24 km/h)",
+            "Excesso de velocidade (+25-40 km/h)",
+            "Excesso de velocidade (+40+ km/h)",
+            "Fuga do local de acidente",
+            "Direção perigosa",
+            "Avançar o sinal vermelho",
+            "Avançar o sinal de parada (Stop)",
+            "Dirigir distraído",
+            "Modificação ilegal de veículo",
+            "Infração de cinto de segurança",
+            "Não dar a preferência",
+            "Conversão irregular",
+            "Ultrapassagem irregular",
+            "Mudança de faixa irregular"
+        ]
+    },
+    "charges": {
+        "Posession": [
+            "Posse de maconha",
+            "Posse de cocaína",
+            "Posse de narcóticos",
+            "Posse de veículo roubado",
+            "Posse de arma de fogo roubada",
+            "Posse de dinheiro falsificado",
+            "Posse ilegal de arma de fogo"
+        ],
+        "Assault": [
+            "Agressão/Ataque agravado",
+            "Homicídio doloso (primeiro grau)",
+            "Homicídio doloso (segundo grau)",
+            "Homicídio doloso (terceiro grau)",
+            "Agressão com arma letal",
+            "Tomada de reféns",
+            "Tiroteio de carro (Drive-by)",
+            "Assassinato",
+            "Assalto à mão armada",
+            "Incêndio criminoso"
+        ],
+        "Domestic Violence": [
+            "Roubo de identidade agravado",
+            "Tentativa de homicídio/assassinato",
+            "Fraude de falência",
+            "Assalto a banco",
+            "Arrombamento e invasão",
+            "Crime de informática",
+            "Ocultar prisioneiro foragido",
+            "Ocultar pessoa para evitar prisão",
+            "Conspiração",
+            "Fraude de cartão de crédito/débito",
+            "Terrorismo doméstico",
+            "Violência doméstica"
+        ],
+        "Drug and Alcohol Related": [
+            "Abuso de drogas",
+            "Contrabando de drogas",
+            "Tráfico de drogas",
+            "Dirigir embriagado (DUI)"
+        ],
+        "?": [
+            "Lavagem de dinheiro",
+            "Roubo de veículo automotor",
+            "Prostituição",
+            "Estupro",
+            "Sabotagem",
+            "Agressão sexual",
+            "Furto em loja",
+            "Invasão de propriedade",
+            "Vandalismo",
+            "Uso de arma de fogo",
+            "Resistência à prisão"
+        ]
+    }
+}
